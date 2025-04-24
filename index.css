@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+   
+}
+  
+h1 { 
+     color: black;
+     text-align: center;
+     font-size: 20px;
+
+}
+
+p{ 
+   color:   black;
+   margin-bottom: 70px;
+   font-size: 20px;
+       
+}
+
+.top{
+    margin-top: 150px;
+}
+
+.foto {
+    margin-left: 500px;
+}
